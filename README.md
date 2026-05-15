@@ -211,19 +211,3 @@ Kaggle - Bank Customer Churn Dataset
 具备完整的数据分析项目流程。
 
 ---
-
-# 项目结构
-
-```bash
-bank-customer-churn-analysis/
-│
-├── README.md
-├── churn_analysis.ipynb
-├── images/
-│   ├── churn_by_age.png
-│   ├── churn_by_country.png
-│   ├── churn_by_products.png
-│   └── churn_by_active_member.png
-│
-└── sql/
-    └── churn_analysis.sql
