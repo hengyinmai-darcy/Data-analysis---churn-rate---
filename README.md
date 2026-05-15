@@ -240,3 +240,7 @@ This project successfully completed:
 This project demonstrates a complete end-to-end data analytics workflow.
 
 ---
+作者 | Author
+麦恒铟 HENGYIN Mai
+
+GitHub Portfolio Project for Data Analyst
