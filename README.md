@@ -178,6 +178,24 @@ Kaggle - Bank Customer Churn Dataset
 ---
 # 项目截图
 
+![年龄分布](images/Age_distribution.png)
+
+![不同流失状态的年龄分布](images/age_distribution_by_churn.png)
+
+![不同流失状态的余额分布](images/balance_distribution_by_churnstatus.png)
+
+![客户活跃状态流失率分析](images/churn_rate_by_activitystatus.png)
+
+![国家客户流失率分析](images/churn_rate_by_country.png)
+
+![性别客户流失率分析](images/churn_rate_by_gender.png)
+
+![产品数量与流失率分析](images/churn_rate_by_number_of_products.png)
+
+![客户流失分布](images/customer_churn_distribution.png)
+
+![不同流失状态的薪资分布](images/salary_distribution_by_churn.png)
+
 ## 1.
 # 项目成果
 
